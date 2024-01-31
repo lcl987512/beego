@@ -1,6 +1,5 @@
 module github.com/astaxie/beego
 
-go 1.21.6
 
 require (
 	github.com/beego/goyaml2 v0.0.0-20130207012346-5545475820dd
